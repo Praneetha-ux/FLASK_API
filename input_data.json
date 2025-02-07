@@ -1,0 +1,16 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john.doe@example.com",
+        "date_of_birth": "1990-04-15",
+        "job": {
+          "title": "Software Engineer",
+          "company": "TechCorp",
+          "salary": 95000
+        }
+      }
+    ]
+  }
